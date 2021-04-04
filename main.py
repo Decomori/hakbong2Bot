@@ -22,4 +22,4 @@ async def 계급(ctx):
     await ctx.send('현재 저는 훈련병입니다!')
 
 
-bot.run('')
+bot.run('IA.npgkNgDtKl4vlK4sjvPJm0pzGpQ')
