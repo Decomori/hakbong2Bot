@@ -9,6 +9,6 @@ Idea
 Multidict
 Pip
 Pyton-dotenv
-Setup tools
+Setuptools
 Typing-extensions
-yarl
+Carl
