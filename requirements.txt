@@ -1,0 +1,14 @@
+asyncio
+discord.py
+Aiohttp
+Async-timeout
+Attires
+Charted
+Discord
+Idea
+Multidict
+Pip
+Pyton-dotenv
+Setup tools
+Typing-extensions
+yarl
